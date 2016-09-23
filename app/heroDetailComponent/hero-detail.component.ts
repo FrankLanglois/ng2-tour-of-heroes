@@ -4,7 +4,7 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { ActivatedRoute, Params } from '@angular/router';
 
-import { Hero } from './../poco/hero';
+import { Hero } from './../pojo/hero';
 import { HeroService } from './../services/hero.service';
 
 @Component({
